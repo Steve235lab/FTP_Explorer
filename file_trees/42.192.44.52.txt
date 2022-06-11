@@ -1,0 +1,86 @@
+42.192.44.52
+	Games
+		old_world
+			setup_old_world_60410_(64bit)_(55915)-1.bin
+			setup_old_world_60410_(64bit)_(55915)-2.bin
+			setup_old_world_60410_(64bit)_(55915).exe
+	Movies
+		Fantastic.Beasts.The.Secrets.of.Dumbledore.2022.2160p.HMAX.WEB-DL.DDP5.1.Atmos.HDR.H.265-SMURF.mkv
+	Music
+		Elden Ring OST
+			01_Elden Ring.mp3
+			02_Opening.mp3
+			03_Character Creation.mp3
+			04_Limgrave.mp3
+			05_Caves.mp3
+			06_Tunnels.mp3
+			07_Stormveil Castle.mp3
+			08_Roundtable Hold.mp3
+			09_Liurnia of the Lakes.mp3
+			10_Great Underground Rivers.mp3
+			11_Eternal City.mp3
+			12_Academy of Raya Lucaria.mp3
+			13_Caelid.mp3
+			14_Old Castle.mp3
+			15_Altus Plateau.mp3
+			16_Catacombs.mp3
+			17_Leyndell, Royal Capital.mp3
+			18_Subterranean Shunning-Grounds.mp3
+			19_Mt. Gelmir.mp3
+			20_Volcano Manor.mp3
+			21_Prison Town.mp3
+			22_Mountaintops of the Giants.mp3
+			23_Divine Tower.mp3
+			24_Crumbling Farum Azula.mp3
+			25_Consecrated Snowfield.mp3
+			26_Miquella's Haligtree.mp3
+			27_Elphael.mp3
+			28_Formidable Foe I.mp3
+			29_Formidable Foe II.mp3
+			30_Invader.mp3
+			31_Old Warriors.mp3
+			32_Erdtree Knights.mp3
+			33_Fallen Knights.mp3
+			34_The Immured.mp3
+			35_The Accursed.mp3
+			36_Grave Wardens.mp3
+			37_Death's Kindred.mp3
+			38_Dragon.mp3
+			39_Fallingstar Beast.mp3
+			40_Red Wolf of Radagon.mp3
+			41_Erdtree Avatar.mp3
+			42_Godskin Apostles.mp3
+			43_Black Knives.mp3
+			44_Margit, the Fell Omen.mp3
+			45_Omen Illusion.mp3
+			46_Lord's Apparition.mp3
+			47_Regal Ancestor Spirit.mp3
+			48_Astel, Naturalborn of the Void.mp3
+			49_Ancient Dragon Lansseax.mp3
+			50_Lichdragon Fortissax.mp3
+			51_Song of Lament.mp3
+			52_Morgott, the Omen King.mp3
+			53_Bloody Fingers.mp3
+			54_Mohg, Lord of Blood.mp3
+			55_Godrick the Grafted.mp3
+			56_Malenia, Blade of Miquella.mp3
+			57_Song of Honor.mp3
+			58_Starscourge Radahn.mp3
+			59_Recusants.mp3
+			60_God-Devouring Serpent.mp3
+			61_Rennala, Queen of the Full Moon.mp3
+			62_Fire Giant.mp3
+			63_Beast Clergyman.mp3
+			64_Dragonlord Placidusax.mp3
+			65_Godfrey, First Elden Lord.mp3
+			66_The Final Battle.mp3
+			67_Ending.mp3
+	README.txt
+	Source Codes
+		On GitHub.txt
+	Tools
+		CodeSearcherForDST_1.1.1.exe
+		DataGenerator.exe
+		Get Cursor Postition.exe
+		binary_converter.exe
+		get_md5_val_CMDToolEdition.exe
